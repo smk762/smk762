@@ -6,5 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smk762&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [AtomicDEX Desktop](https://github.com/KomodoPlatform/atomicDEX-Desktop), [PytomicDEX Makerbot](https://github.com/smk762/pytomicDEX_makerbot), & [Komodo Platform Dev Docs](https://github.com/KomodoPlatform/developer-docs)
+- 🔭 I’m currently working on [AtomicDEX Desktop](https://github.com/KomodoPlatform/atomicDEX-Desktop), [Notary Stats Collection](https://stats.kmd.io/), & [Komodo Platform Dev Docs](https://github.com/KomodoPlatform/developer-docs)
 - 📫 Find me on Discord at [Komodo Platform's server](https://discord.gg/FZPXhX8z9g)

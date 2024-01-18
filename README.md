@@ -28,8 +28,12 @@
         <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smk762&layout=compact&theme=tokyonight" />
         <br />
+        <a href="https://img.shields.io/youtube/channel/subscribers/UCxZha6M0r90kFIGkFvKRvcw"><img src="https://img.shields.io/youtube/channel/subscribers/UCxZha6M0r90kFIGkFvKRvcw"></a>
+        <a href="https://img.shields.io/youtube/channel/views/UCxZha6M0r90kFIGkFvKRvcw"><img src="https://img.shields.io/youtube/channel/views/UCxZha6M0r90kFIGkFvKRvcw"></a>
+        <br />
+        <a href="https://img.shields.io/github/followers/smk762"><img src="https://img.shields.io/github/followers/smk762"></a>
         <a href="https://img.shields.io/github/stars/smk762"><img src="https://img.shields.io/github/stars/smk762"></a>
-        <a href="https://img.shields.io/github/followers/smk762"><img src="https://img.shields.io/github/followers/smk762"></a>  
+        <br />
       </p>
     </td>
   </tr>

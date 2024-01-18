@@ -22,9 +22,9 @@
     </td>
     <td>
       <p align="center">
-        <img width="470px" src="https://github-readme-streak-stats.herokuapp.com/?user=smk762&theme=highcontrast&hide_border=true" alt="smk762" />
+        <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=smk762&theme=highcontrast&hide_border=true" alt="smk762" />
         <br />
-        <img width="470px" src="https://github-readme-stats.vercel.app/api?username=smk762&count_private=true&show_icons=true&theme=tokyonight">
+        <img width="420px" src="https://github-readme-stats.vercel.app/api?username=smk762&count_private=true&show_icons=true&theme=tokyonight">
         <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smk762&layout=compact&theme=tokyonight" />
         <br />

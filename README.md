@@ -24,11 +24,6 @@
       <p align="center">
         <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=smk762&theme=highcontrast&hide_border=true" alt="smk762" />
         <br />
-        <img width="420px" src="https://github-readme-stats.vercel.app/api?username=smk762&count_private=true&show_icons=true&theme=tokyonight">
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smk762&layout=compact&theme=tokyonight" />
-        <br />
-        <br />
         <a href="https://img.shields.io/github/followers/smk762"><img src="https://img.shields.io/github/followers/smk762"></a>
         <a href="https://img.shields.io/github/stars/smk762"><img src="https://img.shields.io/github/stars/smk762"></a>
         <br />

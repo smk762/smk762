@@ -8,9 +8,6 @@
       <p align="center">
         <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=smk762&theme=highcontrast&hide_border=true" alt="smk762" />
         <br />
-        <a href="https://github.com/smk762/pytomicDEX_makerbot"><img alt="PytomicDEX Makerbot" src="https://img.shields.io/badge/PytomicDEX Makerbot-303757?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://pypi.org/project/pykomodefi/"><img alt="PyKomoDeFi" src="https://img.shields.io/badge/PyKomoDeFi-2F3061?style=for-the-badge&logo=github&logoColor=white"></a>
-        <br />
         <a href="https://developers.komodoplatform.com/"><img alt="Developer Docs" src="https://img.shields.io/badge/developers.komodoplatform.com-2F3061?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
         <br />
         <a href="https://github.com/KomodoPlatform/komodo-wallet-desktop/"><img alt="Komodo Wallet Desktop" src="https://img.shields.io/badge/Komodo Wallet Desktop-303757?style=for-the-badge&logo=github&logoColor=white"></a>

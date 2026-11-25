@@ -21,6 +21,8 @@
         <a href="https://twitter.com/dragonhound3"><img src="https://img.shields.io/badge/dragonhound.dev-blue?style=for-the-badge" /></a>
         <br />
         <a href="https://www.youtube.com/channel/UCxZha6M0r90kFIGkFvKRvcw"><img src="https://img.shields.io/badge/YouTube-114e6a?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+        <br />
+        <a href="https://dragonhound.dev/contact/"><img alt="Contact" src="https://img.shields.io/badge/Contact-114e6a?style=for-the-badge" /></a>
       </p>
     </td>
   </tr>

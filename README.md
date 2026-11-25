@@ -26,4 +26,4 @@ I build APIs, CI/CD and developer tooling. I spent 2018–2026 at Komodo Platfor
 
 **Stack:** Python · FastAPI · PostgreSQL · Redis · Docker · Linux · GitHub Actions · Terraform · GDAL
 
-[Website and demos](https://dragonhound.dev/) · [Docs](https://docs.dragonhound.dev/) · [PyPI](https://pypi.org/user/dragonhound_dev/) · [YouTube](https://www.youtube.com/@dragonhound7227)
+[Contact](https://dragonhound.dev/contact/) · [Website and demos](https://dragonhound.dev/) · [Docs](https://docs.dragonhound.dev/) · [PyPI](https://pypi.org/user/dragonhound_dev/) · [YouTube](https://www.youtube.com/@dragonhound7227)
